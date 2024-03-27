@@ -1,0 +1,13 @@
+.deskhome {
+  height: 100vh;
+  display: flex;
+  width: 100%;
+  &_sidebar {
+    background-color: #e9ecef;
+    width: 20%;
+  }
+  &_content {
+    width: 70%;
+    background-color: #f8f9fa;
+  }
+}
